@@ -37,6 +37,7 @@ namespace SimpleCalculator
                         res = num1 / num2;
                         Console.WriteLine("Division:" + res);
                         break;
+                        //Default Comment
                     default:
                         Console.WriteLine("Wrong input");
                         break;
