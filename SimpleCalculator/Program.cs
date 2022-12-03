@@ -27,6 +27,11 @@ namespace SimpleCalculator
                         res = num1 - num2;
                         Console.WriteLine("Subtraction:" + res);
                         break;
+                        //Added multipication method by Sarvjeet Kaur
+                    case "*":
+                        res = num1 * num2;
+                        Console.WriteLine("Multiplication:" + res);
+                        break;
                 }
                 Console.ReadLine();
                 Console.Write("Do you want to continue(y/n):");

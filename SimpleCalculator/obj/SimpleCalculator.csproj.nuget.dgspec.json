@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/amitmalhi/Projects/SimpleCalculator/SimpleCalculator/SimpleCalculator.csproj": {}
+    "/Users/amitmalhi/Downloads/Sarvjeet/Sar/SimpleCalculator/SimpleCalculator.csproj": {}
   },
   "projects": {
-    "/Users/amitmalhi/Projects/SimpleCalculator/SimpleCalculator/SimpleCalculator.csproj": {
+    "/Users/amitmalhi/Downloads/Sarvjeet/Sar/SimpleCalculator/SimpleCalculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/amitmalhi/Projects/SimpleCalculator/SimpleCalculator/SimpleCalculator.csproj",
+        "projectUniqueName": "/Users/amitmalhi/Downloads/Sarvjeet/Sar/SimpleCalculator/SimpleCalculator.csproj",
         "projectName": "SimpleCalculator",
-        "projectPath": "/Users/amitmalhi/Projects/SimpleCalculator/SimpleCalculator/SimpleCalculator.csproj",
+        "projectPath": "/Users/amitmalhi/Downloads/Sarvjeet/Sar/SimpleCalculator/SimpleCalculator.csproj",
         "packagesPath": "/Users/amitmalhi/.nuget/packages/",
-        "outputPath": "/Users/amitmalhi/Projects/SimpleCalculator/SimpleCalculator/obj/",
+        "outputPath": "/Users/amitmalhi/Downloads/Sarvjeet/Sar/SimpleCalculator/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/amitmalhi/.nuget/NuGet/NuGet.Config"
