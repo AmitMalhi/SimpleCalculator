@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "i2xUEiH/hYdTNch4WLJRXH9wZTRoGcryB5aHrUFmtPmBqKwxB4BE3wodSOfhpgFq+H/d6HpmOuZP1EqO5y6iRg==",
+  "success": true,
+  "projectFilePath": "/Users/amitmalhi/Projects/SimpleCalculator/SimpleCalculator/SimpleCalculator.csproj",
+  "expectedPackageFiles": [
+    "/Users/amitmalhi/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/amitmalhi/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.29/microsoft.netcore.app.host.osx-x64.3.1.29.nupkg.sha512",
+    "/Users/amitmalhi/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
